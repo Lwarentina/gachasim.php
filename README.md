@@ -1,0 +1,2 @@
+# gachasim.php
+php
